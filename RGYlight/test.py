@@ -1,9 +1,8 @@
 
-import os
-import datetime
-import json
-import cv2
-
-img = cv2.imread("C:\\Users\\hp\\PycharmProjects\\pythonProject1\\RGYlight\\RGYlightpic\\images\\test\\a (10).jpg")  # 读取图片信息
-print(img.shape)
-# print(img.shape)
+a=1
+b=2
+c=a+b
+print(a,b,c)
+#这里的程序是用平板电脑写的，你就说爽不爽吧
+print("my code is write in the gitpod,i feel so good")
+#是我草率了 这个这女的很爽 很爽
